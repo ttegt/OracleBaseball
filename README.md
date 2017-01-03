@@ -13,3 +13,5 @@ Other files include
 *batters201x.csv and pitchers201x.csv files which contain the complete Oracle ratings.
 
 *nmaster.csv The Retrosheet master names list with retrosheet player IDs, complete through 2016.
+
+The OracleApp directory contains the server.R and ui.R files used for the OracleApp Shiny app.
